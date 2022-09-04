@@ -8,9 +8,10 @@
 
 ### Reach out to me
 
-<img width="22" src="https://unpkg.com/simple-icons@v4/icons/youtube.svg" align="left" />[youtube]
-<img width="22" src="https://unpkg.com/simple-icons@v4/icons/instagram.svg" align="left"/>[instagram]
+<img width="22" src="https://unpkg.com/simple-icons@v4/icons/youtube.svg" align="left" href=[youtube]>
+<img width="22" src="https://unpkg.com/simple-icons@v4/icons/instagram.svg" align="left" href=[instagram]/>
 
+<br />
 <br />
 <br />
 
@@ -34,5 +35,5 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=professorishere&layout=compact">
 </details>
 
-[youtube]: https://www.youtube.com/channel/UC5nklb6SUmXUy8we9uk4vEg
-[instagram]: https://www.instagram.com/keremozdilsizcik/
+[youtube]: "https://www.youtube.com/channel/UC5nklb6SUmXUy8we9uk4vEg"
+[instagram]: "https://www.instagram.com/keremozdilsizcik/"
