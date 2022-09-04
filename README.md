@@ -35,5 +35,5 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=professorishere&layout=compact">
 </details>
 
-[youtube]: "https://www.youtube.com/channel/UC5nklb6SUmXUy8we9uk4vEg"
-[instagram]: "https://www.instagram.com/keremozdilsizcik/"
+[youtube]: https://www.youtube.com/channel/UC5nklb6SUmXUy8we9uk4vEg
+[instagram]: https://www.instagram.com/keremozdilsizcik/
