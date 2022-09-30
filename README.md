@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Kerem. :computer:
 
-## AI Developer | Youtube Content Creator 
+## Software Developer | Youtube Content Creator 
 
 <font color="pink">Coffee :coffee: is how I keep up with `< code />`</font>
 
